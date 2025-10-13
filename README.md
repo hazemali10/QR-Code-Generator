@@ -34,9 +34,6 @@
   3. Saves the PNG to your project folder  
   4. Displays a success message ✅  
 
-  Example output:
-      ✅ QR code saved as myqr.png
-
   ---
 
   ## 📚 Learning Focus
