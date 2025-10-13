@@ -31,7 +31,7 @@
   ## 🧠 How It Works
   1. Prompts the user for a URL using **Inquirer**  
   2. Generates a QR code using **qr-image**  
-  3. Saves the PNG to your project folder  
+  3. Saves the PNG to your project folder (alongside a txt file containing your input)
   4. Displays a success message ✅  
 
   ---
