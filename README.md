@@ -6,24 +6,21 @@
   ---
 
   ## ⚙️ Installation & Setup
+ 
+  ### 1️⃣ Install dependencies
+      npm install 
 
-  ### 1️⃣ Initialize a Node project
-      npm init 
-
-  ### 2️⃣ Install dependencies
-      npm install qr-image inquirer
-
-  ### 3️⃣ Enable ES Modules  
+  ### 2️⃣ Enable ES Modules  
   In your `package.json`, add the following line:
       {
         "type": "module"
       }
         <img width="684" alt="QR Code Generator Demo" src="https://github.com/user-attachments/assets/6c9d5fb6-b3a0-4470-ac72-8abc52461bb1" />
 
-  ### 4️⃣ Run the project
+  ### 3️⃣ Run the project
       node index.js
 
-  ### 5️⃣ Follow the prompt  
+  ### 4️⃣ Follow the prompt  
   Enter the URL you want to generate a QR code for — and voilà 🎉
 
   ---
